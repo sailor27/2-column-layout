@@ -1,0 +1,25 @@
+header {
+  background-color: #d3d3d3; /*grey*/
+}
+
+nav {
+  background-color: #ffdab9;/*peach*/
+}
+
+/*.columns {
+  float:left;
+}*/
+
+.column1 {
+  background-color: #90EE90; /*green*/
+  float: left;
+}
+
+.column2 {
+  background-color: #E6E6FA; /*lavendar*/
+  float: right;
+}
+
+footer {
+  background-color: #CC7722; /*orange*/
+}
